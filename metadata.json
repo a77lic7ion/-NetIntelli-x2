@@ -1,0 +1,5 @@
+{
+  "name": "NetIntelli X",
+  "description": "A web-based simulation of a multi-vendor network automation tool with AI-assisted command generation powered by the Gemini API. It provides a terminal interface for network device management and leverages AI to suggest commands based on natural language.",
+  "requestFramePermissions": []
+}
